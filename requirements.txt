@@ -1,16 +1,15 @@
-contoml
-certifi >= 14.05.14
-six >= 1.10
-python_dateutil >= 2.5.3
-setuptools >= 21.0.0
-urllib3 >= 1.15.1
-daiquiri
+certifi>=14.05.14
 click
+contoml
+daiquiri
 distro
-thoth-analyzer
-yaspin
-texttable
+invectio
+python-dateutil>=2.5.3
 pyyaml
 requests
+six>=1.10
 termcolor
-invectio
+texttable
+thoth-analyzer
+urllib3>=1.15.1
+yaspin
